@@ -1,0 +1,1 @@
+web: gunicorn devskills_djangoapi.wsgi --log-file -
