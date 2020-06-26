@@ -1,4 +1,4 @@
-import null as null
+# import null as null
 from django.db import models
 
 # Create your models here.
